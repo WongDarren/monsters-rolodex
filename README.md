@@ -13,7 +13,6 @@ I created this website by implementing:
 * Arrow Functions
 
 Date: March 2020
-Introduction to React Project
 
 ## Demo
 Demo accessible on https://wongdarren.github.io/monsters-rolodex/
